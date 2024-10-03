@@ -1,0 +1,16 @@
+======= GitHub ==========
+- git init -> Tornar a pasta em repositorio
+- code . -> Entrar no VSCode
+- css | img | js | index.html -> Estrutura padrão
+- git add .
+- Definir nome e email
+- git status
+- git branch -m master main
+- git commit -m "Comentario"
+
+(Mandar para o repositorio)
+	- git remote add origin https://github.com/ghilard/...
+	- git branch -M main
+	- git push -u origin main
+
+- Proxima atualização (add, commit, push)
